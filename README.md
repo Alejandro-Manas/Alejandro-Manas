@@ -14,4 +14,4 @@ I'm an Electronics Engineering student at **UPC (ETSETB)** specializing in **Dig
 * Looking for **Spring/Summer 2025 Internship** opportunities in Barcelona (ASIC/FPGA/Firmware).
 
 #### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](PON_AQUI_TU_ENLACE_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/alejandro-mañas-07702a292)
